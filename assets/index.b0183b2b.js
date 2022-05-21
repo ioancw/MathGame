@@ -23,7 +23,7 @@ import{y as vn,n as Mn}from"./vendor.299b0ab0.js";const Gn=function(){const t=do
             `);case 3:{const s=n.fields[0],o=i=>Vs(s.UsedLetters,u=>c=>{c.preventDefault(),t(new fe(3,(u==="Ent"?f=>As(f):u==="Del"?f=>Us(f):f=>js(u,f))(s)))},i);return tt(Xe`
             <div class="space-y-4">
             <div class="flex flex-row justify-center">
-            My little wordle game
+            I'm watching you Nia.
             </div>
             <div class="flex flex-row justify-center">
             ${r(s.Guess1)}
