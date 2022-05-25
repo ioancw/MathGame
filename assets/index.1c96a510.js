@@ -40,7 +40,7 @@ import{y as Ot,n as qt}from"./vendor.299b0ab0.js";const Lt=function(){const s=do
         <div class="flex flew-row justify-center">
         ${U(l,xs.Bottom)}
         </div>
-        <div class="flex flex-row justify-center">
+        <div class="flex justify-center">
         ${i}
         </div>
         </div>
