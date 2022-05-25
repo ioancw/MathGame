@@ -12,7 +12,7 @@ import{y as Mr,n as Fr}from"./vendor.299b0ab0.js";const Ir=function(){const s=do
     >${r}</button>
     </div>
     `)}new Qa("wordle-app").Decorate(function(){this.init(o=>(o.useShadowDom=!1,Promise.resolve(void 0)));let e;const s=ro();e=Wa(this).useState(()=>s);const r=e[0],t=o=>{const n=f=>P(d=>io(d[0],d[1]),P(d=>[ns(d.Letter,"").toLocaleUpperCase(),d.Status],f[1].Letters)),l=f=>lo(o.UsedLetters,d=>h=>{h.preventDefault(),e[1]((d==="Ent"?p=>no(p):d==="Del"?p=>oo(p):p=>ao(d,p))(o))},f);let i;const u=[o.Round,o.State];let c;switch(u[0]===0?u[1].tag===1?c=0:u[1].tag===2?c=5:c=6:u[0]===1?u[1].tag===1?c=1:u[1].tag===2?c=5:c=6:u[0]===2?u[1].tag===1?c=2:u[1].tag===2?c=5:c=6:u[0]===3?u[1].tag===1?c=3:u[1].tag===2?c=5:c=6:u[0]===4&&u[1].tag===1?c=4:u[1].tag===2?c=5:c=6,c){case 0:{i="Jedi Knight you are";break}case 1:{i="Feel the force.";break}case 2:{i="A Jedi's strength flows from the force.";break}case 3:{i="The greatest teacher, failure is.";break}case 4:{i="Fear is the path to the dark side.";break}case 5:{i="This is why you must fail";break}case 6:{i="Do or do not, there is no try.";break}}return gs(ls`
-        <div class="space-y-3 bg-gray-300">
+        <div class="min-h-screen space-y-3 bg-gray-500">
         <div class="flex justify-center mb-1 font-mono text-3xl ">
         Hardle
         </div>
